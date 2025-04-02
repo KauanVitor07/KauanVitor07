@@ -17,4 +17,9 @@
 <li>Basquete</li>
 <br>
 <h1>Interesses em tecnologia:</h1>
+<li>FrontEnd</li>
+<li>Chatgpt</li>
+<li></li>
+
+![KauanVitor07 GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanVitor07&theme=synthwave&show_icons=true)
 
