@@ -20,6 +20,10 @@
 <li>👨🏻‍💻FrontEnd</li>
 <li>💻Estudar inteligência artificial</li>
 <br>
+<h1>Aprendizados</h1>
+<Li>Engenharia de Prompt</Li>
+<li>Sistemas Inteligentes</li>
+<br>
 
 ![KauanVitor07 GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanVitor07&theme=synthwave&show_icons=true)
 
