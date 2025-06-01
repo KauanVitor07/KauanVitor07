@@ -20,7 +20,7 @@
 <li>👨🏻‍💻FrontEnd</li>
 <li>💻Estudar inteligência artificial</li>
 <br>
-<h1>Aprendizados</h1>
+<h1>Aprendizados:</h1>
 <Li>Engenharia de Prompt</Li>
 <li>Sistemas Inteligentes</li>
 <br>
